@@ -182,19 +182,22 @@ npm run dev
 
 ## Login Page
 
-(Add Screenshot)
+<img width="1837" height="887" alt="Screenshot 2026-08-16 122115" src="https://github.com/user-attachments/assets/e6bd7270-a121-4df9-9496-f45d28800420" />
+
 
 ## Dashboard
 
-(Add Screenshot)
+<img width="1852" height="900" alt="Screenshot 2026-08-16 122146" src="https://github.com/user-attachments/assets/22d9832e-ab30-4c45-a0aa-6e26b195787b" />
+
 
 ## Projects
 
-(Add Screenshot)
+<img width="1897" height="814" alt="Screenshot 2026-08-16 122159" src="https://github.com/user-attachments/assets/0dda7d12-d799-4fa7-82df-93a4f27ff1dd" />
+
 
 ## Tasks
 
-(Add Screenshot)
+<img width="1907" height="871" alt="Screenshot 2026-08-16 122212" src="https://github.com/user-attachments/assets/f01ec2d3-8388-4e3c-bf2b-56a74882ec22" />
 
 ---
 
